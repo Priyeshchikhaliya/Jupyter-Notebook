@@ -1,0 +1,41 @@
+Libraries -
+    Keras
+
+Models we can use  - 
+    Linear Regression
+    Time series Models
+    Support vector machine (SVM)
+    RNN  / ANN - Artificial Neural Network
+    ARIMA   
+    LSTM - Long short-term memory
+    Reinforcement Learning
+
+
+API         - 
+    Tiingo 
+
+
+
+
+Gits- 
+    https://github.com/dduemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network
+    https://github.com/lohithn4/stock-market-prediction
+    https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis
+    https://github.com/parthlathiya/Stock-Market-Price-Prediction/
+    https://github.com/shikhar17jan/Stock-Market-Prediction-using-Machine-Learning
+    https://github.com/leomcp/Stock_Market_Prediction
+    https://github.com/hrishikeshrn/Stock-Market-Prediction-using-Machine-Learning
+    https://github.com/Rajat-dhyani/Stock-Price-Predictor
+Blogs 
+	https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/
+
+Dataset 
+	
+	finance.yahoo.com
+
+
+    https://gist.github.com/jiahao87/c97214065f996b76ab8fe4ca1964b2b5
+
+    https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9
+
+    https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html
